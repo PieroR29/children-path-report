@@ -153,16 +153,16 @@
   <!-- ROW 3.1 -->
   <tr>
     <td style="text-align: center;">
-      X.X.X
+      0.0.10
     </td>
     <td style="text-align: center;">
-      XX/XX/XXXX
+      16/09/2026
     </td>
     <td style="text-align: center;">
-      XXXXXX
+      Huaco Oliva
     </td>
     <td style="text-align: justify;">
-        XXXXXX
+        Si se puede
     </td>
   </tr>
   <!-- ROW 3.2 -->
